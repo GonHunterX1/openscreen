@@ -10,7 +10,7 @@ Screen Studio is an awesome product and this is definitely not a 1:1 clone. Open
 
 Core Features
 
-.Record a specific window, region, or your whole screen.
+Record a specific window, region, or your whole screen.
 Record microphone and system audio.
 Webcam overlay with picture-in-picture, drag-to-position, and shape options.
 Auto or manual zooms with adjustable depth, duration, easing, and pixel-precise position.
