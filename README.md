@@ -9,7 +9,8 @@ Screen Studio is an awesome product and this is definitely not a 1:1 clone. Open
 100% free for both personal and commercial use. Use it, modify it, distribute it — just be cool 😁 and shout out the project if you feel like it.
 
 Core Features
-Record a specific window, region, or your whole screen.
+
+.Record a specific window, region, or your whole screen.
 Record microphone and system audio.
 Webcam overlay with picture-in-picture, drag-to-position, and shape options.
 Auto or manual zooms with adjustable depth, duration, easing, and pixel-precise position.
